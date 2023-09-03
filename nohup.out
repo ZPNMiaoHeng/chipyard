@@ -1,0 +1,11 @@
+libva error: vaGetDriverNameByIndex() failed with unknown libva error, driver_name = (null)
+[90m[main 2023-07-20T03:14:37.423Z][0m update#ctor - updates are disabled as there is no update URL
+[90m[main 2023-07-20T03:23:22.947Z][0m Extension host with pid 200513 exited with code: 0, signal: unknown.
+[91m[main 2023-07-20T03:23:23.050Z][0m [UtilityProcess id: 1, type: extensionHost, pid: 200513]: crashed with code 139 and reason 'crashed'
+[90m[main 2023-07-20T03:24:47.863Z][0m Extension host with pid 231290 exited with code: 139, signal: unknown.
+[91m[main 2023-07-20T03:24:47.870Z][0m [UtilityProcess id: 2, type: extensionHost, pid: 231290]: crashed with code 139 and reason 'crashed'
+libva error: vaGetDriverNameByIndex() failed with unknown libva error, driver_name = (null)
+[90m[main 2023-07-20T04:02:22.582Z][0m update#ctor - updates are disabled as there is no update URL
+[90m[main 2023-07-20T04:12:27.344Z][0m Extension host with pid 367647 exited with code: 139, signal: unknown.
+[91m[main 2023-07-20T04:12:27.348Z][0m [UtilityProcess id: 1, type: extensionHost, pid: 367647]: crashed with code 139 and reason 'crashed'
+[90m[main 2023-07-20T04:12:35.161Z][0m Extension host with pid 379460 exited with code: 0, signal: unknown.
